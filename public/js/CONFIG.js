@@ -13,7 +13,7 @@ const __DATA__ = {
     'bio-storys': [{
         'image': 'admin.png',
         'content': 'Giới thiệu',
-        'author': 'Chào Bạn 👋,tui sống tại TP Hà Nội.I am Student',
+        'author': 'Chào Bạn 👋,tui sống tại TP Hà Nội',
     }, ],
     'links': [{
             'image': 'facebook.jpg',
